@@ -88,7 +88,7 @@ const Sidebar = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://www.linkedin.com/in/aditya-muni-b57522216"
+            href="https://github.com/Aditya-Muni"
           >
             <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
           </a>
