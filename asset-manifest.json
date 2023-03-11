@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.17bb7211.css",
-    "main.js": "/portfolio/static/js/main.16fb87b6.js",
+    "main.css": "/portfolio/static/css/main.22effc9e.css",
+    "main.js": "/portfolio/static/js/main.9ab32849.js",
+    "static/media/Programming-amico.png": "/portfolio/static/media/Programming-amico.d49ac531e691f1041f9d.png",
     "static/media/helvetica-neu.ttf": "/portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff2": "/portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/logo-a.png": "/portfolio/static/media/logo-a.e73f1d458aa9e50215eb.png",
     "static/media/logo_sub.png": "/portfolio/static/media/logo_sub.d30b8b3aad6bc642c3e3.png",
     "static/media/CoolveticaRg-Regular.woff2": "/portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/portfolio/index.html",
-    "main.17bb7211.css.map": "/portfolio/static/css/main.17bb7211.css.map",
-    "main.16fb87b6.js.map": "/portfolio/static/js/main.16fb87b6.js.map"
+    "main.22effc9e.css.map": "/portfolio/static/css/main.22effc9e.css.map",
+    "main.9ab32849.js.map": "/portfolio/static/js/main.9ab32849.js.map"
   },
   "entrypoints": [
-    "static/css/main.17bb7211.css",
-    "static/js/main.16fb87b6.js"
+    "static/css/main.22effc9e.css",
+    "static/js/main.9ab32849.js"
   ]
 }
