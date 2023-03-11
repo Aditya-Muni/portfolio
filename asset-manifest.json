@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.22effc9e.css",
-    "main.js": "/portfolio/static/js/main.fe72665c.js",
-    "static/media/Programming-amico.png": "/portfolio/static/media/Programming-amico.d49ac531e691f1041f9d.png",
-    "static/media/helvetica-neu.ttf": "/portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/logo-a.png": "/portfolio/static/media/logo-a.e73f1d458aa9e50215eb.png",
-    "static/media/logo_sub.png": "/portfolio/static/media/logo_sub.d30b8b3aad6bc642c3e3.png",
-    "static/media/CoolveticaRg-Regular.woff2": "/portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/portfolio/index.html",
-    "main.22effc9e.css.map": "/portfolio/static/css/main.22effc9e.css.map",
-    "main.fe72665c.js.map": "/portfolio/static/js/main.fe72665c.js.map"
+    "main.css": "/static/css/main.ef7f9801.css",
+    "main.js": "/static/js/main.627fb7d2.js",
+    "static/media/Programming-amico.png": "/static/media/Programming-amico.d49ac531e691f1041f9d.png",
+    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-a.png": "/static/media/logo-a.e73f1d458aa9e50215eb.png",
+    "static/media/logo_sub.png": "/static/media/logo_sub.d30b8b3aad6bc642c3e3.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/index.html",
+    "main.ef7f9801.css.map": "/static/css/main.ef7f9801.css.map",
+    "main.627fb7d2.js.map": "/static/js/main.627fb7d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.22effc9e.css",
-    "static/js/main.fe72665c.js"
+    "static/css/main.ef7f9801.css",
+    "static/js/main.627fb7d2.js"
   ]
 }
