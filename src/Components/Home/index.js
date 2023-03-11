@@ -1,10 +1,9 @@
 import { Link } from "react-router-dom";
-// import LogoTitle from "../../Assets/images/logo-a.png";
 import "./index.scss";
 import { useState, useEffect } from "react";
 import AnimateLetters from "../AnimateLetters";
-import Logo from "./Logo";
 import Loader from "react-loaders";
+import Programming from "../../Assets/images/Programming-amico.png";
 
 const Home = () => {
   const [letterClass, setLetterClass] = useState("text-animate");
@@ -47,11 +46,6 @@ const Home = () => {
             <span className={`${letterClass} _13`}>I</span>
             <span className={`${letterClass} _14`}>'m </span>
 
-            {/* <img
-            src={LogoTitle}
-            alt="JavaScript Developer Name, Web Developer Name"
-          /> */}
-
             <AnimateLetters
               letterClass={letterClass}
               strArray={nameArray}
@@ -69,7 +63,11 @@ const Home = () => {
             CONTACT ME
           </Link>
         </div>
-        <Logo />
+        <img
+          className="solid-logo"
+          src={Programming}
+          alt="JavaScript,  Developer"
+        />
       </div>
       <Loader type="pacman" />
     </>

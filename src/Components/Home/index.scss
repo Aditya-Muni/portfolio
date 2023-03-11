@@ -16,7 +16,7 @@
     &::before {
       content: "<h1>";
       font-family: "La Belle Aurore";
-      color: #ffd700;
+      color: #ffd900;
       opacity: 0.7;
       font-size: 1.8rem;
       position: absolute;
@@ -48,7 +48,6 @@
 h2 {
   color: #adadad;
   margin-top: 2rem;
-
   font-family: sans-serif;
   font-weight: 400;
   font-size: 1.2rem;
@@ -76,7 +75,19 @@ h2 {
   }
 }
 
-@media screen and (max-width: 1200px) {
+.solid-logo {
+  position: absolute;
+  top: 8%;
+  right: 8%;
+  margin: auto;
+  width: 38%;
+  opacity: 0;
+  z-index: 1;
+  animation: backInRight 1s 1.2s;
+  animation-fill-mode: forwards;
+}
+
+@media screen and (max-width: 500px) {
   .tags,
   .home-page h1:before,
   .home-page h1:after {
@@ -108,23 +119,13 @@ h2 {
     margin: 2.5rem auto 0 auto;
   }
 
-  .logo-container {
-    position: relative;
-    width: 100px;
-    height: auto;
-    top: 50px;
-    right: 0;
-    box-sizing: border-box;
-    margin: auto;
-    left: 0;
-  }
-
-  .logo-container svg {
+  .solid-logo {
     position: absolute;
-    top: auto;
-    right: auto;
-    bottom: auto;
-    left: 0;
+    width: 50%;
+    height: auto;
+    bottom: -500px;
+    right: 40%;
+    box-sizing: border-box;
     margin: auto;
   }
 }
